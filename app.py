@@ -110,5 +110,5 @@ if check_password():
 
     else:
         # Pantalla de espera
-        st.image("https://images.unsplash.com/photo-1611974717482-98aa007ae39d?q=80&w=1000&auto=format&fit=crop", caption="IA Trading Terminal lista para operar.")
+        st.image("st.image("https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg", caption="IA Trading Terminal lista para operar.")", caption="IA Trading Terminal lista para operar.")
         st.info("👈 Configure el activo y pulse el botón para iniciar el escaneo macro y técnico.")

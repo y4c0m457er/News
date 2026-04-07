@@ -1,0 +1,5 @@
+streamlit
+yfinance
+requests
+python-dotenv
+langchain-openai
